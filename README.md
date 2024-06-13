@@ -1,5 +1,5 @@
 
-<h2 align="left">Bonjour! Mon nom est Layla & je suis amoureuse du développement Web (et des chats) ❤️😺</h2>
+<h2 align="left">Bonjour! Mon nom est Layla <br>& je suis amoureuse du développement Web (et des chats) ❤️😺</h2>
 
 - 🌱 Présentement, j'approfondis mes connaissances en PHP : **Laravel, PHP orienté objet**
 - 📫 Parlons-nous! Je suis disponible pour répondre à tes questions ou recevoir tes commentaires : **layla.tamb@gmail.com**
