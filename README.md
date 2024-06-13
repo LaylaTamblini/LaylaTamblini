@@ -1,10 +1,7 @@
-<h1 align="center">Salut! Mon nom est Layla 😺</h1>
-<h2 align="center">Amoureuse du développement Web ❤️</h2>
+<h1 align="left">Salut! Mon nom est Layla et je suis amoureuse du développement Web (et des chats) ❤️😺</h1>
 
 - 🌱 Présentement, j'approfondis mes connaissances en PHP : **Laravel, PHP orienté objet**
-
 - 📫 Parlons-nous! Je suis disponible pour répondre à tes questions ou recevoir tes commentaires : **layla.tamb@gmail.com**
-
 - ⚡ Savais-tu que : **Je suis même capable de créer de beaux sites WordPress!**
 
 <h3 align="left">On s'connecte?</h3>
