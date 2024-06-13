@@ -19,7 +19,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/5/adobe-illustrator-cc.svg" alt="illustrator" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Ils sont quand même dans mon coeur:</h3>
+<h3 align="left">Pas mes prefs, mais ils sont quand même là:</h3>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
