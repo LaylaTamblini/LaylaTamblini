@@ -1,4 +1,5 @@
-<h1 align="left">Bonjour! Mon nom est Layla & je suis amoureuse du développement Web (et des chats) ❤️😺</h1>
+<h3 align="left">Bonjour! Mon nom est Layla,</h3>
+<h2 align="left">& je suis amoureuse du développement Web (et des chats) ❤️😺</h2>
 
 - 🌱 Présentement, j'approfondis mes connaissances en PHP : **Laravel, PHP orienté objet**
 - 📫 Parlons-nous! Je suis disponible pour répondre à tes questions ou recevoir tes commentaires : **layla.tamb@gmail.com**
@@ -20,7 +21,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/73/adobe-xd-cc.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">On s'connecte?</h3>
+<h2 align="left">On s'connecte?</h2>
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/layla-tamblini-643198273" target="blank">
