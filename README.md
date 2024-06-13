@@ -6,10 +6,8 @@
 
 <h3 align="left">On s'connecte?</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/layla-tamblini-643198273" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/layla-tamblini-643198273" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/352246759436582912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="352246759436582912" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/layla-tamblini-643198273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/layla-tamblini-643198273" height="30" width="40"/></a>
+  <a href="https://discord.gg/352246759436582912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="352246759436582912" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Mon coffre à outils</h3>
