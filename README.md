@@ -17,7 +17,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/73/adobe-xd-cc.svg" alt="xd" width="40" height="40"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/5/adobe-illustrator-cc.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/p/8/photoshop.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/8/adobe-photoshop-cc.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">On s'connecte?</h3>
