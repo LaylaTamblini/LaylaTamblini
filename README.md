@@ -21,11 +21,3 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/5/adobe-illustrator-cc.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://www.cdnlogo.com/logos/a/73/adobe-xd-cc.svg" alt="xd" width="40" height="40"/></a>
 </p>
-
-<h2 align="left">On s'connecte?</h2>
-
-<p align="left">
-  <a href="www.linkedin.com/in/laylatamblini" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/laylatamblini" height="30" width="40"/>
-  </a>
-</p>
