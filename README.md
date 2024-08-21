@@ -1,7 +1,7 @@
 
 <h2 align="left">Bonjour! Mon nom est Layla! 😺</h2>
 
-- Présentement, j'approfondis mes connaissances en PHP : **Laravel, PHP orienté objet** 🌱 
+- Présentement, j'approfondis mes connaissances en PHP avec Laravel 🌱 
 
 <h2 align="left">Mon coffre à outils</h2>
 
